@@ -12,3 +12,6 @@ OS, Windows, and Linux.
 
 3. Run it: `python3 -m pastebuddy`
 
+## TODO
+[] Allow users to choose lexer type
+[] Allow users to choose paste expiry
